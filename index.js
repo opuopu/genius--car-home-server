@@ -1,0 +1,1 @@
+console.log('hellogit push -u origin main')
